@@ -6,9 +6,9 @@
 # authors: bennettrogers
 # url: https://github.com/bennettrogers
 
-register_asset 'stylesheets/common/parsnip-plugin.scss'
-register_asset 'stylesheets/desktop/parsnip-plugin.scss', :desktop
-register_asset 'stylesheets/mobile/parsnip-plugin.scss', :mobile
+# register_asset 'stylesheets/common/parsnip-plugin.scss'
+# register_asset 'stylesheets/desktop/parsnip-plugin.scss', :desktop
+# register_asset 'stylesheets/mobile/parsnip-plugin.scss', :mobile
 
 enabled_site_setting :parsnip_plugin_enabled
 
